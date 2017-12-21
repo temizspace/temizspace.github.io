@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Styles
-published: false
+title: Wiki
+published: true
 ---
 
 ## Full Style Test
