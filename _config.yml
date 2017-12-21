@@ -12,7 +12,7 @@ title:            TemizSpace
 tagline:          Black Theme for Jekyll
 description:      "We are creating open source kit-software and devices."
 url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /
+baseurl:          https://temizspace.github.io/
 
 author:
   name:           'Karlo Espiritu'
